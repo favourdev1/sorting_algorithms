@@ -1,6 +1,6 @@
 # C - Sorting algorithms & Big O
 
-This is an algorithm-based project in C Programming Language, by **Okechukwu Favour**  during the Full Stack Software Engineering studies at **ALX**. Several sorting algorithms are implemented, as well as their corresponding Big O notations.
+This is an algorithm-based project in C Programming Language, by **Ayomide Suara** and **Mohamed Ibrahima Traore** during the Full Stack Software Engineering studies at **ALX**. Several sorting algorithms are implemented, as well as their corresponding Big O notations.
 
 ## Tests :heavy_check_mark:
 
@@ -158,3 +158,20 @@ Function Prototype:
   * Orders the deck from spades to diamonds and from aces to kings.
 
 
+## Authors
+<details>
+    <summary>Suara Ayomide</summary>
+    <ul>
+    <li><a href="https://www.github.com/aysuarex">Github</a></li>
+    <li><a href="https://www.twitter.com/Aysuarex">Twitter</a></li>
+    <li><a href="mailto:aysuarex@gmail.com">e-mail</a></li>
+    </ul>
+</details>
+<details>
+    <summary>Mohamed Ibrahima Traore</summary>
+    <ul
+    <li><a href="https://www.github.com/codivily">Github</a></li>
+    <li><a href="https://www.twitter.com/codivily">Twitter</a></li>
+    <li><a href="mailto:codivily@gmail.com">e-mail</a></li>
+    </ul>
+</details>
